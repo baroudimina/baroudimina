@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @baroudimina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# greetingApp_FLASK
+a simple greeting app built with flask, ready to deploy to Heroku
 
-<!---
-baroudimina/baroudimina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# greetingApp_FLASK-main
+![ss](https://user-images.githubusercontent.com/32107652/134775021-659d1384-0c37-43a7-b373-593d87f2b475.png)
+<br>
+<br>
+
+<br>
+
