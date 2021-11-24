@@ -4,7 +4,7 @@ body {
 }
 p {
     color: white;
-    font-family: Shanti;
+   
     font-size: 1.2em;
     display: inline-block;
     margin:  20px;
@@ -19,7 +19,7 @@ input {
   height: 50px;
   border: none;
   border-radius: 10px;
-  font-family: Shanti;
+ 
   font-size: 1.3em;
   text-align: center;
 }
